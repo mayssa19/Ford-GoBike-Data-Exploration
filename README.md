@@ -10,7 +10,7 @@ The data was preprocessed, nan values were dropped and only records with valid v
 
 Once cleaned, the data consists of 60606 records in the dataset with 16 columns (duration_sec, start_time, end_time, start_station_id, start_station_name, start_station_latitude, start_station_longitude, end_station_id, end_station_name, end_station_latitude, end_station_longitude, bike_id, user_type, member_birth_year, member_gender, bike_share_for_all_trip).
 
-A new column was also created which is part_of_the_day where hours were extracted from start_time and then to compute the values morning, afternoon, evening and night. 
+A new column was also created which is part_of_the_day where hours were extracted from start_time column to compute the values morning, afternoon, evening and night. 
 
 
 ## Summary of Findings
