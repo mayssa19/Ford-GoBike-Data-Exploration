@@ -30,5 +30,5 @@ part_of_the_day. For this matter, I used the bar charts. Afterward, I used the v
 plots to compare these variables against duration_sec and then used the scatter plot to 
 seek what kind of relationship between the feature of interest and age. 
 In the last part, I used the multivariate analysis to see if there is any additionnal 
-pattern or trend between user_type, part_of_the_day against the feature of interest
+patterns or trend between user_type, part_of_the_day against the feature of interest
 duration_sec. 
